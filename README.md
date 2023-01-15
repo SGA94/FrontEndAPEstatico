@@ -1,2 +1,2 @@
-# FrontEndAPEstatico
-Maquetado Estatico HTML
+# portfolio-FrontEnd
+Repositorio para el proyecto donde desarrollaremos el frontend
